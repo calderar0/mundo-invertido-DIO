@@ -11,6 +11,7 @@ Este é um projeto desenvolvido com base na série de TV **Stranger Things**. El
 
 - **HTML5**: Para estruturação da página.
 - **CSS3**: Para estilização, incluindo layout, cores e fontes temáticas inspiradas em Stranger Things.
+- **JavaScript**: Apenas para a funcionalidade de alternância entre os temas claro e escuro.
 
 ## Créditos
 - **Desenvolvido por**: Felipe Calderaro
